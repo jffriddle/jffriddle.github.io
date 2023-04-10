@@ -1,0 +1,32 @@
+@charset "utf-8";
+ul, ol {
+    margin: 1em 0;
+    padding: 0 0 0 40px;
+    width: 100%;
+}
+ol {
+    list-style-type: decimal;
+}
+h1 {
+    color: #6000FB;
+}
+h3 {
+    color: #FF0004;
+    font-size: medium;
+    font-weight: bold;
+}
+h2 {
+    color: #FF070B;
+}
+body {
+    background-color: #44C2E9;
+}
+nav {
+    font-style: oblique;
+    font-size: xx-large;
+}
+.style.css {
+}
+body footer {
+    text-align: center;
+}
