@@ -1,0 +1,15 @@
+@media screen and (min-device-width:481px){
+.img_float {
+    float: left;
+}
+
+
+}
+
+@media screen and (min-device-width:769px){
+.img_float {
+    margin-right: 0.25in;
+    float: left;
+}
+
+}
