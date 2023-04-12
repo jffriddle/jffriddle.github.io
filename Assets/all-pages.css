@@ -25,8 +25,13 @@ nav {
     font-style: oblique;
     font-size: xx-large;
 }
+
 .style.css {
 }
+
 body footer {
     text-align: center;
+}
+.img_float {
+    float: right;
 }
